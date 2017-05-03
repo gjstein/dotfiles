@@ -5,3 +5,6 @@
 
 # Emacs client
 alias ec="emacsclient -t"
+
+# Ensure tmux supports 256 colors
+alias tmux="tmux -2"

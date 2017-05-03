@@ -160,6 +160,7 @@ echo "done"
 #########################################
 
 declare -a FILES_TO_SYMLINK=(
+    'emacs.d'
     'shell/tmux.conf'
     'shell/zshrc'
     'shell/shell_aliases'
